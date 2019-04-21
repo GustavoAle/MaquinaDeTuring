@@ -5,9 +5,9 @@
 	Faculdade de Engenharia de Várzea Grande 	- FAENG
 
 	Grupo:
-	Gustavo Mene Ale Primo 		201621901014
-	Thayse Oliveira Pereira		201621901008
-	Vitor de Morais Siqueira 	201621901011
+	Gustavo Mene Ale Primo 		
+	Thayse Oliveira Pereira		
+	Vitor de Morais Siqueira 	
 
 ***************************************************************************/
 
